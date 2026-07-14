@@ -21,7 +21,7 @@ jobs:
           gh issue edit "$ISSUE_URL" --add-label "ECSoC26,mentor:Krish-Khinchi,issue-valid" || true
 
       - name: Parse Issue Forms for Labels
-        uses: actions/github-script@v7
+        uses: actions/github-script@v8
         with:
           script: |
             const body = context.payload.issue.body;
