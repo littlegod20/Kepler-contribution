@@ -32,6 +32,7 @@ An AI-Powered Autonomous Space Traffic Management Platform
 <a href="https://github.com/ronaksarda"><img src="https://github.com/ronaksarda.png" width="50px" style="border-radius:50%;margin:5px;" alt="ronaksarda" /></a>
 <a href="https://github.com/SankeerthNara"><img src="https://github.com/SankeerthNara.png" width="50px" style="border-radius:50%;margin:5px;" alt="SankeerthNara" /></a>
 <a href="https://github.com/hanu-14"><img src="https://github.com/hanu-14.png" width="50px" style="border-radius:50%;margin:5px;" alt="hanu-14" /></a>
+<a href="https://github.com/nayanraj864-cmyk"><img src="https://github.com/nayanraj864-cmyk.png" width="50px" style="border-radius:50%;margin:5px;" alt="nayanraj864-cmyk" /></a>
 
 </div>
 <!-- CONTRIBUTORS_END -->
