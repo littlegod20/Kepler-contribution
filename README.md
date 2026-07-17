@@ -34,6 +34,7 @@ An AI-Powered Autonomous Space Traffic Management Platform
 <a href="https://github.com/hanu-14"><img src="https://github.com/hanu-14.png" width="50px" style="border-radius:50%;margin:5px;" alt="hanu-14" /></a>
 <a href="https://github.com/nayanraj864-cmyk"><img src="https://github.com/nayanraj864-cmyk.png" width="50px" style="border-radius:50%;margin:5px;" alt="nayanraj864-cmyk" /></a>
 <a href="https://github.com/muntasiractive"><img src="https://github.com/muntasiractive.png" width="50px" style="border-radius:50%;margin:5px;" alt="muntasiractive" /></a>
+<a href="https://github.com/Parshant-12"><img src="https://github.com/Parshant-12.png" width="50px" style="border-radius:50%;margin:5px;" alt="Parshant-12" /></a>
 
 </div>
 <!-- CONTRIBUTORS_END -->
