@@ -164,7 +164,7 @@ function MarketingNavBar() {
                     to={l.to}
                     className={({ isActive }) =>
                       `relative font-body-ui text-[15px] font-medium transition-all px-4 py-3 rounded-2xl ${isActive
-? "text-white bg-white/10 shadow-[inset_0_1px_0_rgba(255,255,255,0.1)] after:content-[''] after:absolute after:top-1/2 after:-translate-y-1/2 after:right-6 after:w-1 after:h-1 after:bg-white after:rounded-full after:shadow-[0_0_5px_rgba(255,255,255,0.8)]"                        : "text-neutral-400 hover:text-white hover:bg-white/5"
+                        ? "text-white bg-white/10 shadow-[inset_0_1px_0_rgba(255,255,255,0.1)] after:content-[''] after:absolute after:top-1/2 after:-translate-y-1/2 after:right-6 after:w-1 after:h-1 after:bg-white after:rounded-full after:shadow-[0_0_5px_rgba(255,255,255,0.8)]" : "text-neutral-400 hover:text-white hover:bg-white/5"
                       }`
                     }
                   >
